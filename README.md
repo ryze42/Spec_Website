@@ -29,7 +29,7 @@ optical-website/
 1. **Open your terminal** and navigate into the project folder:
 
    ```bash
-   optical-website % cd optical_website
+   cd optical_website
    ```
 
    > Make sure you’re in the `optical_website` directory before launching Live Server.
