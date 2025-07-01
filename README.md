@@ -1,4 +1,3 @@
-```markdown
 # Optical Website
 
 A responsive, multi-section **optical services website** built using **HTML5** and **CSS3**. This static website showcases an optical business, detailing its services, contact information, and company background in a clean and accessible layout.
