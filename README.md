@@ -14,7 +14,6 @@ optical-website/
 │   └── services.jpg        # Image used in Services section
 
 ```
-```
 
 ## Features
 
